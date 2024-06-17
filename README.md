@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gnome-x11
-- 👀 I’m interested in web and software developing and cybersecurity.
 - 🌱 I’m currently learning on different programming language.
 
 
