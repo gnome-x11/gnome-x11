@@ -37,16 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
 </div>
 
-###
-
-<div align="left">
-</div>
-
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXd1YTBtcjExOW9vbjVwcmxoMm9pdHk3MTA0bDYxNHlqYXZ1d2RrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2LCfvk3XBlQxKyKWY/giphy.gif"  />
-
-###
 
 
 ###
