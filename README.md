@@ -48,7 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gnome-x11/gnome-x11/output/snake.svg" alt="Snake animation" />
 
 ###
 
