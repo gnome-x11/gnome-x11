@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center">Tech that I use</p>
+<h4 align="center"><b>Tools that I use</b></h4>
 
 ###
 
